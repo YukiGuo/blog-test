@@ -1,4 +1,4 @@
-# 我的博客
+# [我的博客](https://yukiguo.github.io/blog-test/)
 ### hello 大家好，这里是小郭同学~
 #### 我的目标：通过这个课程达到初级前端的程度，找到一份合适的工作。
 #### 我的兴趣爱好是:
@@ -31,3 +31,4 @@ padding:0
 ```javascript
 console.log("看这里")
 ```
+我的博客 ""]
